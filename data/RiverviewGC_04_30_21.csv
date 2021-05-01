@@ -1,0 +1,80 @@
+hole_shot,par,distance,club,total_score
+1-1,4,298 yds,Driver,E
+1-2,4,65 yds,GW,E
+1-3,4,50 ft,For Birdie,E
+1-4,4,10 ft,For Par,E
+1-5,4,1 ft,For Bogey,E
+2-1,3,162 yds,7 Iron,+1
+2-2,3,10 yds,PW,+1
+2-3,3,10 ft,For Par,+1
+2-4,3,1 ft,For Bogey,+1
+3-1,3,183 yds,5 Hybrid,+2
+3-2,3,10 yds,LW,+2
+3-3,3,6 ft,For Par,+2
+3-4,3,1 ft,For Bogey,+2
+4-1,4,333 yds,Driver,+3
+4-2,4,Penalty,,+3
+4-3,4,110 yds,PW,+3
+4-4,4,60 ft,For Par,+3
+4-5,4,8 ft,For Bogey,+3
+4-6,4,1 ft,For D. Bogey,+3
+5-1,5,490 yds,Driver,+5
+5-2,5,245 yds,4 Hybrid,+5
+5-3,5,94 yds,PW,+5
+5-4,5,Bunker,,+5
+5-5,5,6 ft,For Par,+5
+5-6,5,1 ft,For Bogey,+5
+6-1,3,154 yds,7 Iron,+6
+6-2,3,Bunker,,+6
+6-3,3,6 ft,For Par,+6
+7-1,4,308 yds,Driver,+6
+7-2,4,86 yds,PW,+6
+7-3,4,20 ft,For Birdie,+6
+7-4,4,2 ft,For Par,+6
+8-1,5,436 yds,Driver,+6
+8-2,5,205 yds,4 Hybrid,+6
+8-3,5,30 ft,For Eagle,+6
+8-4,5,2 ft,For Birdie,+6
+9-1,3,98 yds,PW,+5
+9-2,3,8 yds,LW,+5
+9-3,3,2 ft,For Par,+5
+10-1,3,183 yds,5 Hybrid,+5
+10-2,3,20 ft,For Birdie,+5
+10-3,3,1 ft,For Par,+5
+11-1,4,309 yds,Driver,+5
+11-2,4,60 yds,GW,+5
+11-3,4,10 yds,LW,+5
+11-4,4,1 ft,For Par,+5
+12-1,4,369 yds,Driver,+5
+12-2,4,102 yds,PW,+5
+12-3,4,20 yds,LW,+5
+12-4,4,8 ft,For Par,+5
+13-1,5,426 yds,Driver,+5
+13-2,5,164 yds,6 Iron,+5
+13-3,5,10 yds,SW,+5
+13-4,5,10 ft,For Birdie,+5
+13-5,5,1 ft,For Par,+5
+14-1,3,148 yds,8 Iron,+5
+14-2,3,15 ft,For Birdie,+5
+14-3,3,2 ft,For Par,+5
+15-1,5,426 yds,Driver,+5
+15-2,5,Penalty,,+5
+15-3,5,259 yds,4 Hybrid,+5
+15-4,5,70 yds,GW,+5
+15-5,5,20 ft,For Par,+5
+15-6,5,2 ft,For Bogey,+5
+16-1,4,346 yds,Driver,+6
+16-2,4,101 yds,PW,+6
+16-3,4,15 yds,PW,+6
+16-4,4,20 ft,For Par,+6
+16-5,4,1 ft,For Bogey,+6
+17-1,5,433 yds,Driver,+7
+17-2,5,151 yds,7 Iron,+7
+17-3,5,80 yds,GW,+7
+17-4,5,20 ft,For Birdie,+7
+17-5,5,3 ft,For Par,+7
+18-1,3,178 yds,6 Iron,+7
+18-2,3,83 yds,GW,+7
+18-3,3,30 ft,For Par,+7
+18-4,3,10 ft,For Bogey,+7
+18-5,3,3 ft,For D. Bogey,+7
